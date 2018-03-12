@@ -1,0 +1,16 @@
+import json
+{ "empinfo":
+  {
+    "employees": [
+      {
+        "name":"James Kirk","age":45,
+      },
+      {
+        "name":"Maria", "age":32,
+      },
+      {
+        "name": "Wesley", "age":27,
+      }
+                ]
+    }
+}
